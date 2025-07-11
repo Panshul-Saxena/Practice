@@ -2,7 +2,7 @@ package Leetcode;
 
 import java.util.*;
 
-class Solution {
+class q228 {
     public List<String> summaryRanges(int[] nums) {
         if (nums.length == 0) return new ArrayList<>();
         ArrayList<String> res = new ArrayList<>();
